@@ -30,6 +30,9 @@ I'm Amal George Thomas!
   <a href="https://stackoverflow.com/users/2972370/amal-george-thomas?tab=profile">
     <img src="https://img.shields.io/badge/stack%20overflow-%23FE7A16.svg?&style=for-the-badge&logo=stack-overflow&logoColor=white" height=25>
   </a>
+  <a href="https://drive.google.com/file/d/1varr_WGVlLAL8tgNhUWkwmQpFHvWdZ0x/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-%23323232.svg?&style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" height=25>
+  </a>
 </p>
 
 ![Amal's github stats](https://github-readme-stats.vercel.app/api?username=amalgta&count_private=true)
