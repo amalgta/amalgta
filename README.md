@@ -39,4 +39,4 @@ I'm Amal George Thomas!
 
 <h2 align='center'><i>Stay awesome!</i></h1>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=http://github.com/amalgta)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=amalgta_github_profile)
